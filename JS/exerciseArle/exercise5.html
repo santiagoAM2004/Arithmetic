@@ -1,0 +1,31 @@
+<html lang=”en”>
+<head>
+    <meta charset=”UTF-8″ />
+    <title>exercise5</title>
+</head>
+<body>
+<h1>gas station<h1>
+<script>
+    const gallon = 9000;
+    let gallons = parseInt(prompt("how many gallons do you want?"));
+    function gasStation(){
+        let result = gallons * gallon;
+        alert(result);
+        let pay = parseInt(prompt("pay with cash: "));
+        let excess = pay - result;  
+        
+        if(result > pay){
+            return alert("you can't pay " + gallons + " gallons");
+        }
+         
+        document.write("price of the gallon: " + gallon + "<br/>  gallons ordered: " + gallons + "<br/>");
+        document.write("the price to pay: " + result + "<br/>");
+        document.write("cash received: " + pay + "<br/>");
+        document.write("the excess was of: " + excess);
+    }
+    
+    gasStation();
+
+</script>
+</body>
+</html>
