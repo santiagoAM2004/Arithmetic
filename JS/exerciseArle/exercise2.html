@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercise2</title>
+</head>
+<body>
+    <h1>Grade of average</h1>
+    <script>
+        let grades = parseInt(prompt("how many grades do you have?"));
+        let sum = 0;
+        let grade;
+        function avarage(){
+            for (let i =1;i <= grades; i++){
+                grade = parseInt(prompt("introdice your grade number " + i));
+                sum = sum + grade;
+            }
+            alert(sum);
+            avarage = sum/grades;
+            return "The average of your grades is " + avarage;
+        }
+        document.write(avarage())
+    </script>
+    
+</body>
+</html>
