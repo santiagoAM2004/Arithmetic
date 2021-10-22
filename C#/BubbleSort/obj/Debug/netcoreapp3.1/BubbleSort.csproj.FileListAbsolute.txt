@@ -1,0 +1,13 @@
+/home/sam2004/Escritorio/Arithmetic/C#/BubbleSort/bin/Debug/netcoreapp3.1/BubbleSort
+/home/sam2004/Escritorio/Arithmetic/C#/BubbleSort/bin/Debug/netcoreapp3.1/BubbleSort.deps.json
+/home/sam2004/Escritorio/Arithmetic/C#/BubbleSort/bin/Debug/netcoreapp3.1/BubbleSort.runtimeconfig.json
+/home/sam2004/Escritorio/Arithmetic/C#/BubbleSort/bin/Debug/netcoreapp3.1/BubbleSort.runtimeconfig.dev.json
+/home/sam2004/Escritorio/Arithmetic/C#/BubbleSort/bin/Debug/netcoreapp3.1/BubbleSort.dll
+/home/sam2004/Escritorio/Arithmetic/C#/BubbleSort/bin/Debug/netcoreapp3.1/BubbleSort.pdb
+/home/sam2004/Escritorio/Arithmetic/C#/BubbleSort/obj/Debug/netcoreapp3.1/BubbleSort.csprojAssemblyReference.cache
+/home/sam2004/Escritorio/Arithmetic/C#/BubbleSort/obj/Debug/netcoreapp3.1/BubbleSort.AssemblyInfoInputs.cache
+/home/sam2004/Escritorio/Arithmetic/C#/BubbleSort/obj/Debug/netcoreapp3.1/BubbleSort.AssemblyInfo.cs
+/home/sam2004/Escritorio/Arithmetic/C#/BubbleSort/obj/Debug/netcoreapp3.1/BubbleSort.csproj.CoreCompileInputs.cache
+/home/sam2004/Escritorio/Arithmetic/C#/BubbleSort/obj/Debug/netcoreapp3.1/BubbleSort.dll
+/home/sam2004/Escritorio/Arithmetic/C#/BubbleSort/obj/Debug/netcoreapp3.1/BubbleSort.pdb
+/home/sam2004/Escritorio/Arithmetic/C#/BubbleSort/obj/Debug/netcoreapp3.1/BubbleSort.genruntimeconfig.cache
