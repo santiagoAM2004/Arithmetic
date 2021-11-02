@@ -1,0 +1,15 @@
+/home/sam2004/Escritorio/Arithmetic/C#/Test/bin/Debug/netcoreapp3.1/Test
+/home/sam2004/Escritorio/Arithmetic/C#/Test/bin/Debug/netcoreapp3.1/Test.deps.json
+/home/sam2004/Escritorio/Arithmetic/C#/Test/bin/Debug/netcoreapp3.1/Test.runtimeconfig.json
+/home/sam2004/Escritorio/Arithmetic/C#/Test/bin/Debug/netcoreapp3.1/Test.runtimeconfig.dev.json
+/home/sam2004/Escritorio/Arithmetic/C#/Test/bin/Debug/netcoreapp3.1/Test.dll
+/home/sam2004/Escritorio/Arithmetic/C#/Test/bin/Debug/netcoreapp3.1/Test.pdb
+/home/sam2004/Escritorio/Arithmetic/C#/Test/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/sam2004/Escritorio/Arithmetic/C#/Test/obj/Debug/netcoreapp3.1/Test.csprojAssemblyReference.cache
+/home/sam2004/Escritorio/Arithmetic/C#/Test/obj/Debug/netcoreapp3.1/Test.AssemblyInfoInputs.cache
+/home/sam2004/Escritorio/Arithmetic/C#/Test/obj/Debug/netcoreapp3.1/Test.AssemblyInfo.cs
+/home/sam2004/Escritorio/Arithmetic/C#/Test/obj/Debug/netcoreapp3.1/Test.csproj.CoreCompileInputs.cache
+/home/sam2004/Escritorio/Arithmetic/C#/Test/obj/Debug/netcoreapp3.1/Test.csproj.CopyComplete
+/home/sam2004/Escritorio/Arithmetic/C#/Test/obj/Debug/netcoreapp3.1/Test.dll
+/home/sam2004/Escritorio/Arithmetic/C#/Test/obj/Debug/netcoreapp3.1/Test.pdb
+/home/sam2004/Escritorio/Arithmetic/C#/Test/obj/Debug/netcoreapp3.1/Test.genruntimeconfig.cache

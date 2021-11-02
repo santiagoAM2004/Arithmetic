@@ -44,7 +44,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Newtonsoft.Json >= *"
+      "Newtonsoft.Json >= 13.0.1"
     ]
   },
   "packageFolders": {
@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sam2004/Escritorio/Arithmetic/C#/AppASP/AppASP.csproj",
-      "projectName": "AppASP",
-      "projectPath": "/home/sam2004/Escritorio/Arithmetic/C#/AppASP/AppASP.csproj",
+      "projectUniqueName": "/home/sam2004/Escritorio/Arithmetic/C#/Test/Test.csproj",
+      "projectName": "Test",
+      "projectPath": "/home/sam2004/Escritorio/Arithmetic/C#/Test/Test.csproj",
       "packagesPath": "/home/sam2004/.nuget/packages/",
-      "outputPath": "/home/sam2004/Escritorio/Arithmetic/C#/AppASP/obj/",
+      "outputPath": "/home/sam2004/Escritorio/Arithmetic/C#/Test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/sam2004/.nuget/NuGet/NuGet.Config"
@@ -84,7 +84,7 @@
         "dependencies": {
           "Newtonsoft.Json": {
             "target": "Package",
-            "version": "[*, )"
+            "version": "[13.0.1, )"
           }
         },
         "imports": [
@@ -98,9 +98,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BKF1gB1e7gWFQ+4whBTxj+PTzmET9IDrerHbZ4l2DVnic7A5xLLbM+ScReXLHdw93vQgYxIEnbnCmzmcHHFsKg==",
+  "dgSpecHash": "cDsXvpfNjws40wUDjQu7yvABgAnOSzLw9wP67Bv8HKtJJJH9pe501c8uLHXIGOLlkEJuXp24XT/09e4CfjhQig==",
   "success": true,
   "projectFilePath": "/home/sam2004/Escritorio/Arithmetic/C#/AppASP/AppASP.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/sam2004/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kkp83Dobad1xelgeAR2Yr/KsaVBSb5IlVpl36WJ9eg1PV7GreQVsr+/k7+b4nXVKPzZIftzA49QZSrN+ItXfeA==",
+  "success": true,
+  "projectFilePath": "/home/sam2004/Escritorio/Arithmetic/C#/Test/Test.csproj",
+  "expectedPackageFiles": [
+    "/home/sam2004/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
